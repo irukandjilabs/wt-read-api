@@ -44,7 +44,7 @@
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
-    "@windingtree/wt-contracts": "^0.2.4",
+    "@windingtree/wt-contracts": "^0.3.0",
     "chai": "^4.1.2",
     "coveralls": "^3.0.2",
     "eslint": "^5.2.0",
